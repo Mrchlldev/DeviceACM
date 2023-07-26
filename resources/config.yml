@@ -64,9 +64,8 @@ Faction:
 # ======(DEVICE TAG)======
 Devicetag:
   line: 
-    - "&c♥ {HEALTH}&f |  {FOOD}"
+    - "&cHEALTH: {HEALTH}&f | §6FOOD: {FOOD}"
     - "&aPing: &f{PING} |&6 CPS:&f {CPS} |&b {DEVICE}"
-    - "&cFaction: &a{FACTION}&f | &cPower:&a {FACTION_POWER}&f | &cRank:&a {FACTION_RANK}"
 # ======(PLATAFORM TAG)======
 Platform:
   Android: "Android"
